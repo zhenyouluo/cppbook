@@ -1,0 +1,88 @@
+
+wget "http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c&do=export_pdf&rev=0" 					        -O a001
+
+wget "http://guillaume.belz.free.fr/doku.php?id=introduction&do=export_pdf&rev=0" 					                        -O a002
+wget "http://guillaume.belz.free.fr/doku.php?id=comment_suivre_ce_cours&do=export_pdf&rev=0" 					              -O a003
+wget "http://guillaume.belz.free.fr/doku.php?id=comment_realiser_les_exercices_de_ce_cours&do=export_pdf&rev=0" 		-O a004
+wget "http://guillaume.belz.free.fr/doku.php?id=demander_de_l_aide_et_aider_les_autres&do=export_pdf&rev=0" 				-O a005
+wget "http://guillaume.belz.free.fr/doku.php?id=normes_et_compilateurs&do=export_pdf&rev=0" 					              -O a006
+
+wget "http://guillaume.belz.free.fr/doku.php?id=programme_minimal&do=export_pdf&rev=0" 					                    -O a007
+wget "http://guillaume.belz.free.fr/doku.php?id=hello_world&do=export_pdf&rev=0" 					                          -O a008
+wget "http://guillaume.belz.free.fr/doku.php?id=chaines&do=export_pdf&rev=0" 					                              -O a009
+wget "http://guillaume.belz.free.fr/doku.php?id=qualite_logiciel&do=export_pdf&rev=0" 					                    -O a010
+wget "http://guillaume.belz.free.fr/doku.php?id=histoire&do=export_pdf&rev=0" 					                            -O a011
+wget "http://guillaume.belz.free.fr/doku.php?id=doc&do=export_pdf&rev=0" 					                                  -O a012
+
+wget "http://guillaume.belz.free.fr/doku.php?id=calculs_arithmetiques&do=export_pdf&rev=0" 					                -O a013
+wget "http://guillaume.belz.free.fr/doku.php?id=logique_et_calcul_booleen&do=export_pdf&rev=0" 					            -O a014
+wget "http://guillaume.belz.free.fr/doku.php?id=nombres_reels&do=export_pdf&rev=0" 					                        -O a015
+wget "http://guillaume.belz.free.fr/doku.php?id=string&do=export_pdf&rev=0" 					                              -O a016
+wget "http://guillaume.belz.free.fr/doku.php?id=boole_et_morgan&do=export_pdf&rev=0" 					                      -O a017
+wget "http://guillaume.belz.free.fr/doku.php?id=complex&do=export_pdf&rev=0" 					                              -O a018
+wget "http://guillaume.belz.free.fr/doku.php?id=virgule_fixe&do=export_pdf&rev=0" 					                        -O a019
+wget "http://guillaume.belz.free.fr/doku.php?id=ratio&do=export_pdf&rev=0" 					                                -O a020
+
+wget "http://guillaume.belz.free.fr/doku.php?id=rvalue_et_lvalue&do=export_pdf&rev=0" 					                    -O a021
+wget "http://guillaume.belz.free.fr/doku.php?id=inference_de_type&do=export_pdf&rev=0" 					                    -O a022
+wget "http://guillaume.belz.free.fr/doku.php?id=types_en_detail&do=export_pdf&rev=0" 					                      -O a023
+wget "http://guillaume.belz.free.fr/doku.php?id=informations_sur_les_types&do=export_pdf&rev=0" 					          -O a024
+wget "http://guillaume.belz.free.fr/doku.php?id=definir_ses_types&do=export_pdf&rev=0" 					                    -O a025
+wget "http://guillaume.belz.free.fr/doku.php?id=nombres_aleatoires&do=export_pdf&rev=0" 					                  -O a026
+wget "http://guillaume.belz.free.fr/doku.php?id=static&do=export_pdf&rev=0" 					                              -O a027
+
+wget "http://guillaume.belz.free.fr/doku.php?id=collection&do=export_pdf&rev=0" 					                          -O a028
+wget "http://guillaume.belz.free.fr/doku.php?id=predicats&do=export_pdf&rev=0" 					                            -O a029
+wget "http://guillaume.belz.free.fr/doku.php?id=comparer&do=export_pdf&rev=0" 					                            -O a030
+wget "http://guillaume.belz.free.fr/doku.php?id=rechercher&do=export_pdf&rev=0" 					                          -O a031
+wget "http://guillaume.belz.free.fr/doku.php?id=iterateurs&do=export_pdf&rev=0" 					                          -O a032
+wget "http://guillaume.belz.free.fr/doku.php?id=autres_collections&do=export_pdf&rev=0" 					                  -O a033
+
+wget "http://guillaume.belz.free.fr/doku.php?id=bitset&do=export_pdf&rev=0" 					                              -O a034
+wget "http://guillaume.belz.free.fr/doku.php?id=valarray&do=export_pdf&rev=0" 					                            -O a035
+wget "http://guillaume.belz.free.fr/doku.php?id=intervalle&do=export_pdf&rev=0" 					                          -O a036
+wget "http://guillaume.belz.free.fr/doku.php?id=zip_unzip&do=export_pdf&rev=0" 					                            -O a037
+wget "http://guillaume.belz.free.fr/doku.php?id=chiffres&do=export_pdf&rev=0" 					                            -O a038
+
+wget "http://guillaume.belz.free.fr/doku.php?id=string_etendu&do=export_pdf&rev=0" 					                        -O a039
+wget "http://guillaume.belz.free.fr/doku.php?id=manipuler_par_caracteres&do=export_pdf&rev=0" 					            -O a040
+wget "http://guillaume.belz.free.fr/doku.php?id=expressions_regulieres&do=export_pdf&rev=0" 					              -O a041
+wget "http://guillaume.belz.free.fr/doku.php?id=expressions_regulieres_2&do=export_pdf&rev=0" 					            -O a042
+wget "http://guillaume.belz.free.fr/doku.php?id=expressions_regulieres_3&do=export_pdf&rev=0" 					            -O a043
+wget "http://guillaume.belz.free.fr/doku.php?id=validation_motifs&do=export_pdf&rev=0" 					                    -O a044
+wget "http://guillaume.belz.free.fr/doku.php?id=parser&do=export_pdf&rev=0" 					                              -O a045
+wget "http://guillaume.belz.free.fr/doku.php?id=eval&do=export_pdf&rev=0" 					                                -O a046
+wget "http://guillaume.belz.free.fr/doku.php?id=modele_texte&do=export_pdf&rev=0" 					                        -O a047
+
+wget "http://guillaume.belz.free.fr/doku.php?id=ligne_de_commande&do=export_pdf&rev=0" 					                    -O a048
+wget "http://guillaume.belz.free.fr/doku.php?id=cin&do=export_pdf&rev=0" 					                                  -O a049
+wget "http://guillaume.belz.free.fr/doku.php?id=fichier&do=export_pdf&rev=0" 					                              -O a050
+wget "http://guillaume.belz.free.fr/doku.php?id=tableur&do=export_pdf&rev=0" 					                              -O a051
+wget "http://guillaume.belz.free.fr/doku.php?id=bitmap&do=export_pdf&rev=0" 					                              -O a052
+
+wget "http://guillaume.belz.free.fr/doku.php?id=fonctions&do=export_pdf&rev=0" 					                            -O a053
+wget "http://guillaume.belz.free.fr/doku.php?id=structure_de_controle&do=export_pdf&rev=0" 					                -O a054
+wget "http://guillaume.belz.free.fr/doku.php?id=boucles&do=export_pdf&rev=0" 					                              -O a055
+wget "http://guillaume.belz.free.fr/doku.php?id=fonctions_generiques&do=export_pdf&rev=0" 					                -O a056
+wget "http://guillaume.belz.free.fr/doku.php?id=parametres_arguments&do=export_pdf&rev=0" 					                -O a057
+wget "http://guillaume.belz.free.fr/doku.php?id=gerer_les_erreurs&do=export_pdf&rev=0" 					                    -O a058
+wget "http://guillaume.belz.free.fr/doku.php?id=pair_et_tuple&do=export_pdf&rev=0" 					                        -O a059
+wget "http://guillaume.belz.free.fr/doku.php?id=performances&do=export_pdf&rev=0" 					                        -O a060
+wget "http://guillaume.belz.free.fr/doku.php?id=compilation_separee&do=export_pdf&rev=0" 					                  -O a061
+wget "http://guillaume.belz.free.fr/doku.php?id=variadic&do=export_pdf&rev=0" 					                            -O a062
+wget "http://guillaume.belz.free.fr/doku.php?id=pile&do=export_pdf&rev=0" 					                                -O a063
+wget "http://guillaume.belz.free.fr/doku.php?id=sample&do=export_pdf&rev=0" 					                              -O a064
+wget "http://guillaume.belz.free.fr/doku.php?id=poker&do=export_pdf&rev=0" 					                                -O a065
+wget "http://guillaume.belz.free.fr/doku.php?id=sous_chaines&do=export_pdf&rev=0" 					                        -O a066
+wget "http://guillaume.belz.free.fr/doku.php?id=zebra_puzzle&do=export_pdf&rev=0" 					                        -O a067
+wget "http://guillaume.belz.free.fr/doku.php?id=scrabble&do=export_pdf&rev=0" 					                            -O a068
+wget "http://guillaume.belz.free.fr/doku.php?id=regex_parser&do=export_pdf&rev=0" 					                        -O a069
+
+wget "http://guillaume.belz.free.fr/doku.php?id=conception_bibliotheque&do=export_pdf&rev=0" 					              -O a070
+
+
+
+pdftk a001 a002 a003 a004 a005 a006 a007 a008 a009 a010 a011 a012 a013 a014 a015 a016 a017 a018 a019 a020 a021 a022 a023 a024 a025 a026 a027 a028 a029 a030 a031 a032 a033 a034 a035 a036 a037 a038 a039 a040 a041 a042 a043 a044 a045 a046 a047 a048 a049 a050 a051 a052 a053 a054 a055 a056 a057 a058 a059 a060 a061 a062 a063 a064 a065 a066 a067 a068 a069 a070 cat output cours-cpp.pdf
+
+rm a*
+

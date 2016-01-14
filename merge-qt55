@@ -1,0 +1,19 @@
+
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt&do=export_pdf&rev=0" 					        -O a001
+wget "http://guillaume.belz.free.fr/doku.php?id=desinstallation_qt&do=export_pdf&rev=0" 			    -O a002
+wget "http://guillaume.belz.free.fr/doku.php?id=installateur_qt&do=export_pdf&rev=0" 				      -O a003
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt55_windows&do=export_pdf&rev=0"			    -O a004
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt55_linux&do=export_pdf&rev=0" 			    -O a005
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt55_mac&do=export_pdf&rev=0" 				    -O a006
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt55_android&do=export_pdf&rev=0" 			  -O a007
+wget "http://guillaume.belz.free.fr/doku.php?id=install_qt55_ios&do=export_pdf&rev=0" 				    -O a008
+wget "http://guillaume.belz.free.fr/doku.php?id=tester_install_qt55&do=export_pdf&rev=0" 			    -O a009
+wget "http://guillaume.belz.free.fr/doku.php?id=configurer_qtcreator&do=export_pdf&rev=0" 			  -O a010
+wget "http://guillaume.belz.free.fr/doku.php?id=configurer_qtcreator&do=export_pdf&rev=0" 			  -O a011
+wget "http://guillaume.belz.free.fr/doku.php?id=deployer_une_application_qt&do=export_pdf&rev=0"  -O a012
+wget "http://guillaume.belz.free.fr/doku.php?id=documentation_qt55&do=export_pdf&rev=0" 			    -O a013
+
+pdftk a001 a002 a003 a004 a005 a006 a007 a008 a009 a010 a011 a012 a013 cat output install-qt55.pdf
+
+rm a*
+
